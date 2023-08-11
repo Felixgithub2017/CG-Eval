@@ -19,12 +19,12 @@ http://cgeval.besteasy.com/
 ## Citation
 If you find the code and testset are useful in your research, please consider citing
 ```
-@misc{zeng2023measuring,
-  title={Measuring Massive Multitask Chinese Understanding},
-  author={Hui Zeng},
-  year={2023},
-  eprint={2304.12986},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+@misc{zeng2023evaluating,
+title={Evaluating the Generation Capabilities of Large Chinese Language Models},
+author={Hui Zeng and Jingyuan Xue and Meng Hao and Chen Sun and Bin Ning and Na Zhang},
+year={2023},
+eprint={2308.04823},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
 }
 ```
