@@ -15,3 +15,16 @@ http://cgeval.besteasy.com/
 大科目类别,子科目名称,题目类型, 题目编号,题目文本,题目答案的汉字长度,题目prompt,回答
 
 网站会自动计算分数，您可以选择是否将分数同步到排行榜。
+
+## Citation
+If you find the code and testset are useful in your research, please consider citing
+```
+@misc{zeng2023measuring,
+  title={Measuring Massive Multitask Chinese Understanding},
+  author={Hui Zeng},
+  year={2023},
+  eprint={2304.12986},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
+```
